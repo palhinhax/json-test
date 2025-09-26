@@ -1,0 +1,1699 @@
+[
+  {
+    "id": "1",
+    "columnId": "novo",
+    "fullName": "Rui Pereira",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 100,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 3,
+    "bank": "novo-banco",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-16T15:24:30.123Z",
+      "description": "Meeting with client today"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "2",
+    "columnId": "novo",
+    "fullName": "Helena Cruz",
+    "value": 10000,
+    "phone": "968142390",
+    "number": 101,
+    "products": ["Aquisição"],
+    "icon": "fa-regular fa-house",
+    "proposals": 1,
+    "bank": "activo-bank",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-17T10:30:00.000Z",
+      "description": "Follow-up call tomorrow morning"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "setup",
+        "name": "Setup",
+        "color": "#54a0ff"
+      }
+    ],
+    "indicators": {
+      "dsti": 48,
+      "ltv": 99,
+      "scr": "B"
+    },
+    "assignee": {
+      "id": "3",
+      "name": "Pedro Costa"
+    }
+  },
+  {
+    "id": "3",
+    "columnId": "novo",
+    "fullName": "Client abanca",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 102,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 0,
+    "bank": "abanca",
+    "origin": "web",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "4",
+    "columnId": "novo",
+    "fullName": "Client activo bank ?",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 103,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 4,
+    "bank": "activo-bank",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-15T14:00:00.000Z",
+      "description": "Client missed yesterday's appointment"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "5",
+    "columnId": "novo",
+    "fullName": "Client banca pueyo",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 104,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 2,
+    "bank": "banca-pueyo",
+    "origin": "web",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "6",
+    "columnId": "novo",
+    "fullName": "Client bankia",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 105,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": null,
+    "bank": "bankia",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-18T16:45:00.000Z",
+      "description": "Contract signing in 2 days"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "7",
+    "columnId": "novo",
+    "fullName": "Client bankinter",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 106,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 0,
+    "bank": "bankinter",
+    "origin": "web",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "8",
+    "columnId": "novo",
+    "fullName": "Client bbva",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 107,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 1,
+    "bank": "bbva",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-17T09:15:00.000Z",
+      "description": "Early morning presentation tomorrow"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "9",
+    "columnId": "novo",
+    "fullName": "Client bctt",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 108,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "bctt",
+    "origin": "web",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "10",
+    "columnId": "novo",
+    "fullName": "Client best",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 109,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "best",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-14T11:30:00.000Z",
+      "description": "Overdue meeting from 2 days ago"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "11",
+    "columnId": "novo",
+    "fullName": "Client bicredit",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 110,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "bicredit",
+    "origin": "web",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "12",
+    "columnId": "novo",
+    "fullName": "Client bpi",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 111,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "bpi",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-19T13:00:00.000Z",
+      "description": "Lunch meeting next week"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "13",
+    "columnId": "novo",
+    "fullName": "Client bridge",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 112,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "bridge",
+    "origin": "web",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "14",
+    "columnId": "novo",
+    "fullName": "Client caixa",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 113,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "caixa",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-17T17:30:00.000Z",
+      "description": "End of day review tomorrow"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "15",
+    "columnId": "novo",
+    "fullName": "Client cerberus",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 114,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "cerberus",
+    "origin": "web",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "16",
+    "columnId": "novo",
+    "fullName": "Client cetelem",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 115,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "cetelem",
+    "origin": "web",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "17",
+    "columnId": "novo",
+    "fullName": "Client cgd",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 116,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "cgd",
+    "origin": "app",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "18",
+    "columnId": "novo",
+    "fullName": "Client cofidis",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 117,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "cofidis",
+    "origin": "email",
+    "schedule": {
+      "date": "2025-09-15T08:45:00.000Z",
+      "description": "Missed morning call yesterday"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "19",
+    "columnId": "novo",
+    "fullName": "Client credibom",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 118,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "credibom",
+    "origin": "phone",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "20",
+    "columnId": "novo",
+    "fullName": "Client credito agricula",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 119,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "credito-agricula",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-20T12:00:00.000Z",
+      "description": "Weekend preparation meeting"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "21",
+    "columnId": "novo",
+    "fullName": "Client deutsche",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 120,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "deutsche",
+    "origin": "app",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "22",
+    "columnId": "novo",
+    "fullName": "Client eurobic",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 121,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "eurobic",
+    "origin": "email",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "23",
+    "columnId": "novo",
+    "fullName": "Client evo",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 122,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "evo",
+    "origin": "phone",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "24",
+    "columnId": "novo",
+    "fullName": "Client globalcaja",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 123,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "globalcaja",
+    "origin": "web",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "25",
+    "columnId": "novo",
+    "fullName": "Client ibercaja",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 124,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "ibercaja",
+    "origin": "app",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "26",
+    "columnId": "novo",
+    "fullName": "Client ing",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 125,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "ing",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "27",
+    "columnId": "novo",
+    "fullName": "Client kutxa",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 126,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "kutxa",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "28",
+    "columnId": "novo",
+    "fullName": "Client laboral kutxa",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 127,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "laboral-kutxa",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "29",
+    "columnId": "novo",
+    "fullName": "Client liberbank",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 128,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "liberbank",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "30",
+    "columnId": "novo",
+    "fullName": "Client millennium",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 129,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "millennium",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "31",
+    "columnId": "novo",
+    "fullName": "Client mirabelle",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 130,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "mirabelle",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "32",
+    "columnId": "novo",
+    "fullName": "Client montepio",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 131,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "montepio",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "33",
+    "columnId": "novo",
+    "fullName": "Client novo banco",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 132,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "novo-banco",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "34",
+    "columnId": "novo",
+    "fullName": "Client novobanco acores",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 133,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "novobanco-acores",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "35",
+    "columnId": "novo",
+    "fullName": "Client oney",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 134,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "oney",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "36",
+    "columnId": "novo",
+    "fullName": "Client open",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 135,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "open",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "37",
+    "columnId": "novo",
+    "fullName": "Client sabadell",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 136,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "sabadell",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "38",
+    "columnId": "novo",
+    "fullName": "Client santander",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 137,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "santander",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "39",
+    "columnId": "novo",
+    "fullName": "Client targo",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 138,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "targo",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "40",
+    "columnId": "novo",
+    "fullName": "Client uci",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 139,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "uci",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "41",
+    "columnId": "novo",
+    "fullName": "Client unicaja",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 140,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "unicaja",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "42",
+    "columnId": "novo",
+    "fullName": "Client best icon null",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 141,
+    "products": ["Renegociação"],
+    "icon": null,
+    "bank": "best",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "43",
+    "columnId": "novo",
+    "fullName": "Client best icon empty",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 142,
+    "products": ["Renegociação"],
+    "icon": "",
+    "bank": "best",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "44",
+    "columnId": "novo",
+    "fullName": "Client best no icon field",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 143,
+    "products": ["Renegociação"],
+    "bank": "best",
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  }
+]
