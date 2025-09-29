@@ -12,8 +12,8 @@
     "bank": "novo-banco",
     "origin": "web",
     "schedule": {
-      "date": "2025-09-16T15:24:30.123Z",
-      "description": "Meeting with client today"
+      "date": "2025-09-28T10:00:00.000Z",
+      "description": "Reunião ontem de manhã"
     },
     "tags": [
       {
@@ -55,8 +55,8 @@
     "bank": "activo-bank",
     "origin": "web",
     "schedule": {
-      "date": "2025-09-17T10:30:00.000Z",
-      "description": "Follow-up call tomorrow morning"
+      "date": "2025-09-29T14:00:00.000Z",
+      "description": "Chamada hoje à tarde"
     },
     "tags": [
       {
@@ -133,8 +133,8 @@
     "bank": "activo-bank",
     "origin": "web",
     "schedule": {
-      "date": "2025-09-15T14:00:00.000Z",
-      "description": "Client missed yesterday's appointment"
+      "date": "2025-09-30T09:00:00.000Z",
+      "description": "Reunião amanhã de manhã"
     },
     "tags": [
       {
@@ -175,6 +175,10 @@
     "proposals": 2,
     "bank": "banca-pueyo",
     "origin": "web",
+    "schedule": {
+      "date": "2025-10-01T11:00:00.000Z",
+      "description": "Reunião na próxima semana"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -214,10 +218,7 @@
     "proposals": null,
     "bank": "bankia",
     "origin": "web",
-    "schedule": {
-      "date": "2025-09-18T16:45:00.000Z",
-      "description": "Contract signing in 2 days"
-    },
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -257,6 +258,10 @@
     "proposals": 0,
     "bank": "bankinter",
     "origin": "web",
+    "schedule": {
+      "date": "2025-09-28T16:00:00.000Z",
+      "description": "Chamada ontem à tarde"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -297,8 +302,8 @@
     "bank": "bbva",
     "origin": "web",
     "schedule": {
-      "date": "2025-09-17T09:15:00.000Z",
-      "description": "Early morning presentation tomorrow"
+      "date": "2025-09-29T08:00:00.000Z",
+      "description": "Reunião hoje de manhã"
     },
     "tags": [
       {
@@ -338,6 +343,7 @@
     "icon": "fa-regular fa-house",
     "bank": "bctt",
     "origin": "web",
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -377,8 +383,8 @@
     "bank": "best",
     "origin": "web",
     "schedule": {
-      "date": "2025-09-14T11:30:00.000Z",
-      "description": "Overdue meeting from 2 days ago"
+      "date": "2025-09-27T12:00:00.000Z",
+      "description": "Reunião anteontem"
     },
     "tags": [
       {
@@ -416,8 +422,13 @@
     "number": 110,
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
+    "proposals": 1,
     "bank": "bicredit",
     "origin": "web",
+    "schedule": {
+      "date": "2025-09-30T15:00:00.000Z",
+      "description": "Chamada amanhã à tarde"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -457,8 +468,8 @@
     "bank": "bpi",
     "origin": "web",
     "schedule": {
-      "date": "2025-09-19T13:00:00.000Z",
-      "description": "Lunch meeting next week"
+      "date": "2025-10-02T10:00:00.000Z",
+      "description": "Reunião em dois dias"
     },
     "tags": [
       {
@@ -498,6 +509,7 @@
     "icon": "fa-regular fa-house",
     "bank": "bridge",
     "origin": "web",
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -537,8 +549,8 @@
     "bank": "caixa",
     "origin": "web",
     "schedule": {
-      "date": "2025-09-17T17:30:00.000Z",
-      "description": "End of day review tomorrow"
+      "date": "2025-09-29T16:00:00.000Z",
+      "description": "Chamada hoje à noite"
     },
     "tags": [
       {
@@ -578,6 +590,7 @@
     "icon": "fa-regular fa-house",
     "bank": "cerberus",
     "origin": "web",
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -655,6 +668,10 @@
     "icon": "fa-regular fa-house",
     "bank": "cgd",
     "origin": "app",
+    "schedule": {
+      "date": "2025-09-28T13:00:00.000Z",
+      "description": "Reunião ontem ao almoço"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -694,8 +711,8 @@
     "bank": "cofidis",
     "origin": "email",
     "schedule": {
-      "date": "2025-09-15T08:45:00.000Z",
-      "description": "Missed morning call yesterday"
+      "date": "2025-09-29T11:00:00.000Z",
+      "description": "Chamada hoje de manhã"
     },
     "tags": [
       {
@@ -735,6 +752,7 @@
     "icon": "fa-regular fa-house",
     "bank": "credibom",
     "origin": "phone",
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -774,8 +792,8 @@
     "bank": "credito-agricula",
     "origin": "web",
     "schedule": {
-      "date": "2025-09-20T12:00:00.000Z",
-      "description": "Weekend preparation meeting"
+      "date": "2025-09-30T10:00:00.000Z",
+      "description": "Reunião amanhã de manhã"
     },
     "tags": [
       {
@@ -815,6 +833,10 @@
     "icon": "fa-regular fa-house",
     "bank": "deutsche",
     "origin": "app",
+    "schedule": {
+      "date": "2025-09-26T14:00:00.000Z",
+      "description": "Chamada há dois dias"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -853,6 +875,10 @@
     "icon": "fa-regular fa-house",
     "bank": "eurobic",
     "origin": "email",
+    "schedule": {
+      "date": "2025-10-03T09:00:00.000Z",
+      "description": "Reunião em três dias"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -891,6 +917,7 @@
     "icon": "fa-regular fa-house",
     "bank": "evo",
     "origin": "phone",
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -929,6 +956,10 @@
     "icon": "fa-regular fa-house",
     "bank": "globalcaja",
     "origin": "web",
+    "schedule": {
+      "date": "2025-09-29T13:00:00.000Z",
+      "description": "Reunião hoje à tarde"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -967,6 +998,7 @@
     "icon": "fa-regular fa-house",
     "bank": "ibercaja",
     "origin": "app",
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -1004,6 +1036,11 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "ing",
+    "origin": "email",
+    "schedule": {
+      "date": "2025-09-28T09:00:00.000Z",
+      "description": "Chamada ontem de manhã"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1041,6 +1078,11 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "kutxa",
+    "origin": "phone",
+    "schedule": {
+      "date": "2025-09-30T14:00:00.000Z",
+      "description": "Reunião amanhã à tarde"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1078,6 +1120,7 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "laboral-kutxa",
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -1115,6 +1158,10 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "liberbank",
+    "schedule": {
+      "date": "2025-09-29T10:00:00.000Z",
+      "description": "Chamada hoje de manhã"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1152,6 +1199,10 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "millennium",
+    "schedule": {
+      "date": "2025-10-04T11:00:00.000Z",
+      "description": "Reunião na próxima semana"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1189,6 +1240,7 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "mirabelle",
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -1226,6 +1278,10 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "montepio",
+    "schedule": {
+      "date": "2025-09-25T15:00:00.000Z",
+      "description": "Chamada há três dias"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1263,6 +1319,10 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "novo-banco",
+    "schedule": {
+      "date": "2025-09-29T12:00:00.000Z",
+      "description": "Reunião hoje ao almoço"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1300,6 +1360,10 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "novobanco-acores",
+    "schedule": {
+      "date": "2025-09-30T16:00:00.000Z",
+      "description": "Chamada amanhã à noite"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1337,6 +1401,7 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "oney",
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -1374,6 +1439,10 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "open",
+    "schedule": {
+      "date": "2025-09-28T11:00:00.000Z",
+      "description": "Reunião ontem de manhã"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1411,6 +1480,10 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "sabadell",
+    "schedule": {
+      "date": "2025-10-05T10:00:00.000Z",
+      "description": "Chamada em uma semana"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1448,6 +1521,7 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "santander",
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -1485,6 +1559,10 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "targo",
+    "schedule": {
+      "date": "2025-09-29T15:00:00.000Z",
+      "description": "Reunião hoje à tarde"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1522,6 +1600,10 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "uci",
+    "schedule": {
+      "date": "2025-09-30T12:00:00.000Z",
+      "description": "Chamada amanhã ao almoço"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1559,6 +1641,7 @@
     "products": ["Renegociação"],
     "icon": "fa-regular fa-house",
     "bank": "unicaja",
+    "schedule": null,
     "tags": [
       {
         "id": "urgent",
@@ -1596,6 +1679,10 @@
     "products": ["Renegociação"],
     "icon": null,
     "bank": "best",
+    "schedule": {
+      "date": "2025-09-24T13:00:00.000Z",
+      "description": "Reunião há quatro dias"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1633,6 +1720,10 @@
     "products": ["Renegociação"],
     "icon": "",
     "bank": "best",
+    "schedule": {
+      "date": "2025-09-29T17:00:00.000Z",
+      "description": "Chamada hoje à noite"
+    },
     "tags": [
       {
         "id": "urgent",
@@ -1669,6 +1760,10 @@
     "number": 143,
     "products": ["Renegociação"],
     "bank": "best",
+    "schedule": {
+      "date": "2025-10-06T14:00:00.000Z",
+      "description": "Reunião na próxima semana"
+    },
     "tags": [
       {
         "id": "urgent",
