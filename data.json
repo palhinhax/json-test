@@ -72,7 +72,7 @@
     ],
     "indicators": {
       "dsti": 48,
-      "ltv": 99,
+      "ltv": 1,
       "scr": "B"
     },
     "assignee": {
@@ -238,7 +238,7 @@
     ],
     "indicators": {
       "dsti": 27,
-      "ltv": 47,
+      "": 47,
       "scr": "A"
     },
     "assignee": {
@@ -281,7 +281,7 @@
     ],
     "indicators": {
       "dsti": 27,
-      "ltv": 47,
+      "ltv": 17,
       "scr": "A"
     },
     "assignee": {
@@ -363,7 +363,7 @@
     ],
     "indicators": {
       "dsti": 27,
-      "ltv": 47,
+      "ltv": 77,
       "scr": "A"
     },
     "assignee": {
@@ -490,7 +490,7 @@
     ],
     "indicators": {
       "dsti": 27,
-      "ltv": 47,
+      "ltv": 7,
       "scr": "A"
     },
     "assignee": {
@@ -610,7 +610,7 @@
     ],
     "indicators": {
       "dsti": 27,
-      "ltv": 47,
+      "ltv": 33,
       "scr": "A"
     },
     "assignee": {
@@ -772,7 +772,7 @@
     ],
     "indicators": {
       "dsti": 27,
-      "ltv": 47,
+      "ltv": 15,
       "scr": "A"
     },
     "assignee": {
@@ -856,7 +856,7 @@
     ],
     "indicators": {
       "dsti": 27,
-      "ltv": 47,
+      "ltv": 100,
       "scr": "A"
     },
     "assignee": {
@@ -979,7 +979,7 @@
     ],
     "indicators": {
       "dsti": 27,
-      "ltv": 47,
+      "ltv": 21,
       "scr": "A"
     },
     "assignee": {
@@ -1060,7 +1060,7 @@
     ],
     "indicators": {
       "dsti": 27,
-      "ltv": 47,
+      "ltv": 1,
       "scr": "A"
     },
     "assignee": {
@@ -1181,7 +1181,7 @@
     ],
     "indicators": {
       "dsti": 27,
-      "ltv": 47,
+      "ltv": 100,
       "scr": "A"
     },
     "assignee": {
