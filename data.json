@@ -40,7 +40,12 @@
     "assignee": {
       "id": "1",
       "name": "João Silva"
-    }
+    },
+    "attachments": [
+      "contrato_habitacao.pdf",
+      "declaracao_rendimentos.pdf",
+      "comprovativos_salario.pdf"
+    ]
   },
   {
     "id": "2",
@@ -78,7 +83,8 @@
     "assignee": {
       "id": "3",
       "name": "Pedro Costa"
-    }
+    },
+    "attachments": []
   },
   {
     "id": "3",
@@ -161,7 +167,10 @@
     "assignee": {
       "id": "1",
       "name": "João Silva"
-    }
+    },
+    "attachments": [
+      "identificacao.pdf"
+    ]
   },
   {
     "id": "5",
@@ -204,7 +213,11 @@
     "assignee": {
       "id": "1",
       "name": "João Silva"
-    }
+    },
+    "attachments": [
+      "contrato_habitacao.pdf",
+      "declaracao_rendimentos.pdf"
+    ]
   },
   {
     "id": "6",
@@ -330,7 +343,12 @@
     "assignee": {
       "id": "1",
       "name": "João Silva"
-    }
+    },
+    "attachments": [
+      "escritura.pdf",
+      "certidao_predial.pdf",
+      "avaliacao_imovel.pdf"
+    ]
   },
   {
     "id": "9",
@@ -454,7 +472,8 @@
     "assignee": {
       "id": "1",
       "name": "João Silva"
-    }
+    },
+    "attachments": []
   },
   {
     "id": "12",
@@ -616,7 +635,10 @@
     "assignee": {
       "id": "1",
       "name": "João Silva"
-    }
+    },
+    "attachments": [
+      "caderneta_predial.pdf"
+    ]
   },
   {
     "id": "16",
@@ -820,7 +842,11 @@
     "assignee": {
       "id": "1",
       "name": "João Silva"
-    }
+    },
+    "attachments": [
+      "irs_ultimo_ano.pdf",
+      "extratos_bancarios.pdf"
+    ]
   },
   {
     "id": "21",
@@ -1228,7 +1254,12 @@
     "assignee": {
       "id": "1",
       "name": "João Silva"
-    }
+    },
+    "attachments": [
+      "contrato_habitacao.pdf",
+      "declaracao_rendimentos.pdf",
+      "comprovativos_salario.pdf"
+    ]
   },
   {
     "id": "31",
@@ -1427,7 +1458,8 @@
     "assignee": {
       "id": "1",
       "name": "João Silva"
-    }
+    },
+    "attachments": []
   },
   {
     "id": "36",
