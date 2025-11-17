@@ -1,0 +1,1373 @@
+[
+   {
+      "id":"85183",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":1,
+      "phone":"+34911868609",
+      "number":85183,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.385+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85184",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":200000.0000,
+      "phone":"+31626582183",
+      "number":85184,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.386+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85191",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":150000.0000,
+      "phone":"911868609",
+      "number":85191,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.386+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":13.00,
+         "ltv":75,
+         "scr":"B+"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85202",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":150000.0000,
+      "phone":"911868609",
+      "number":85202,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.387+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":30.00,
+         "ltv":75,
+         "scr":"F-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85159",
+      "columnId":"79",
+      "fullName":"LUIS MIGUEL DA SILVA VIEIRA",
+      "value":150000.0000,
+      "phone":"911868609",
+      "number":85159,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.387+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":18.00,
+         "ltv":75,
+         "scr":"B"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85161",
+      "columnId":"79",
+      "fullName":"Luis Vieira",
+      "value":1,
+      "phone":"911868609",
+      "number":85161,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.387+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85162",
+      "columnId":"79",
+      "fullName":"Luis Vieira",
+      "value":1,
+      "phone":"911868609",
+      "number":85162,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.387+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85185",
+      "columnId":"80",
+      "fullName":"Luis Vieira",
+      "value":1,
+      "phone":"911868609",
+      "number":85185,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.387+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85209",
+      "columnId":"78",
+      "fullName":"Jose Fonesca",
+      "value":1,
+      "phone":"911868609",
+      "number":85209,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.387+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85210",
+      "columnId":"78",
+      "fullName":"Luis",
+      "value":1,
+      "phone":"911868609",
+      "number":85210,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.387+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85217",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":150000.0000,
+      "phone":"911868609",
+      "number":85217,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.387+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":31.00,
+         "ltv":75,
+         "scr":"F-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85219",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":1,
+      "phone":"911868609",
+      "number":85219,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.387+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85220",
+      "columnId":"78",
+      "fullName":"Teste Code",
+      "value":1,
+      "phone":"911868609",
+      "number":85220,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.388+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85145",
+      "columnId":"79",
+      "fullName":"Pedro Gomes",
+      "value":175000.0000,
+      "phone":"911868609",
+      "number":85145,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-02-11T18:00:00.000+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":36.00,
+         "ltv":88,
+         "scr":"F-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85203",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":1,
+      "phone":"911868609",
+      "number":85203,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.388+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85204",
+      "columnId":"78",
+      "fullName":"Jose Fonseca",
+      "value":1,
+      "phone":"911868609",
+      "number":85204,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.388+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85205",
+      "columnId":"78",
+      "fullName":"luis vieira",
+      "value":1,
+      "phone":"911868609",
+      "number":85205,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.388+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85206",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":1,
+      "phone":"911868609",
+      "number":85206,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.388+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85207",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":1,
+      "phone":"911868609",
+      "number":85207,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.388+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85208",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":1,
+      "phone":"911868609",
+      "number":85208,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.388+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85213",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":100000.0000,
+      "phone":"911868609",
+      "number":85213,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Online",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.388+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":12.00,
+         "ltv":67,
+         "scr":"B+"
+      },
+      "assignee":{
+         "id":"0",
+         "name":null
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85214",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":100000.0000,
+      "phone":"911868609",
+      "number":85214,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Online",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.388+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":12.00,
+         "ltv":67,
+         "scr":"B+"
+      },
+      "assignee":{
+         "id":"0",
+         "name":null
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85215",
+      "columnId":"78",
+      "fullName":"Luis Vieira",
+      "value":100000.0000,
+      "phone":"911868609",
+      "number":85215,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Online",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.389+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":12.00,
+         "ltv":67,
+         "scr":"B+"
+      },
+      "assignee":{
+         "id":"0",
+         "name":null
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85223",
+      "columnId":"78",
+      "fullName":"Maluco-Beleza",
+      "value":1,
+      "phone":"911868609",
+      "number":85223,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Online",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.389+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"0",
+         "name":null
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85224",
+      "columnId":"78",
+      "fullName":"Maluco-Beleza",
+      "value":1,
+      "phone":"911868609",
+      "number":85224,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Online",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.389+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"0",
+         "name":null
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"85225",
+      "columnId":"78",
+      "fullName":"Fonseca",
+      "value":150000.0000,
+      "phone":"911868609",
+      "number":85225,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Online",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.389+00:00",
+         "description":"Call"
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":0,
+         "scr":"-"
+      },
+      "assignee":{
+         "id":"0",
+         "name":null
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"7404",
+      "columnId":"83",
+      "fullName":"Luis Vieira",
+      "value":150000.0000,
+      "phone":"911868609",
+      "number":7404,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":3,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.389+00:00",
+         "description":null
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":75,
+         "scr":"D+"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"7412",
+      "columnId":"82",
+      "fullName":"Luis Vieira",
+      "value":150000.0000,
+      "phone":"911868609",
+      "number":7412,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":3,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.389+00:00",
+         "description":null
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":75,
+         "scr":"A"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"7405",
+      "columnId":"82",
+      "fullName":"Primeiro Part",
+      "value":100000.0000,
+      "phone":"916250777",
+      "number":7405,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":3,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.389+00:00",
+         "description":null
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":50,
+         "scr":"A+"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"7413",
+      "columnId":"82",
+      "fullName":"LUIS MIGUEL DA SILVA VIEIRA",
+      "value":150000.0000,
+      "phone":"911868609",
+      "number":7413,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":0,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.389+00:00",
+         "description":null
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":75,
+         "scr":"A"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"7414",
+      "columnId":"82",
+      "fullName":"LUIS MIGUEL DA SILVA VIEIRA",
+      "value":250000.0000,
+      "phone":"911868609",
+      "number":7414,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":2,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.389+00:00",
+         "description":null
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":84,
+         "scr":"B-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   },
+   {
+      "id":"7419",
+      "columnId":"82",
+      "fullName":"Teste Api",
+      "value":370000.0000,
+      "phone":"911868609",
+      "number":7419,
+      "products":[
+         "Hipotecário"
+      ],
+      "icon":"fa-regular fa-house",
+      "proposals":4,
+      "bank":"-",
+      "origin":"Backoffice",
+      "schedule":{
+         "date":"2025-11-14T14:59:29.389+00:00",
+         "description":null
+      },
+      "indicators":{
+         "dsti":0,
+         "ltv":100,
+         "scr":"F-"
+      },
+      "assignee":{
+         "id":"4",
+         "name":"Luis Vieira "
+      },
+      "attachments":[
+         "Imposto de Rendimento das Pessoas Singulares",
+         "Liquidação IRS",
+         "Documento de Identificação",
+         "Mapa de Responsabilidades de Crédito",
+         "Recibos",
+         "Extrato banco"
+      ],
+      "tags":[
+         {
+            "id":"ID",
+            "name":"Dummy tag",
+            "color":"#efefef"
+         }
+      ]
+   }
+]
