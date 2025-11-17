@@ -1,1373 +1,1801 @@
 [
-   {
-      "id":"85183",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":1,
-      "phone":"+34911868609",
-      "number":85183,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.385+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85184",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":200000.0000,
-      "phone":"+31626582183",
-      "number":85184,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.386+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85191",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":150000.0000,
-      "phone":"911868609",
-      "number":85191,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.386+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":13.00,
-         "ltv":75,
-         "scr":"B+"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85202",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":150000.0000,
-      "phone":"911868609",
-      "number":85202,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.387+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":30.00,
-         "ltv":75,
-         "scr":"F-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85159",
-      "columnId":"79",
-      "fullName":"LUIS MIGUEL DA SILVA VIEIRA",
-      "value":150000.0000,
-      "phone":"911868609",
-      "number":85159,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.387+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":18.00,
-         "ltv":75,
-         "scr":"B"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85161",
-      "columnId":"79",
-      "fullName":"Luis Vieira",
-      "value":1,
-      "phone":"911868609",
-      "number":85161,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.387+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85162",
-      "columnId":"79",
-      "fullName":"Luis Vieira",
-      "value":1,
-      "phone":"911868609",
-      "number":85162,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.387+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85185",
-      "columnId":"80",
-      "fullName":"Luis Vieira",
-      "value":1,
-      "phone":"911868609",
-      "number":85185,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.387+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85209",
-      "columnId":"78",
-      "fullName":"Jose Fonesca",
-      "value":1,
-      "phone":"911868609",
-      "number":85209,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.387+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85210",
-      "columnId":"78",
-      "fullName":"Luis",
-      "value":1,
-      "phone":"911868609",
-      "number":85210,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.387+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85217",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":150000.0000,
-      "phone":"911868609",
-      "number":85217,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.387+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":31.00,
-         "ltv":75,
-         "scr":"F-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85219",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":1,
-      "phone":"911868609",
-      "number":85219,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.387+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85220",
-      "columnId":"78",
-      "fullName":"Teste Code",
-      "value":1,
-      "phone":"911868609",
-      "number":85220,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.388+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85145",
-      "columnId":"79",
-      "fullName":"Pedro Gomes",
-      "value":175000.0000,
-      "phone":"911868609",
-      "number":85145,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-02-11T18:00:00.000+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":36.00,
-         "ltv":88,
-         "scr":"F-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85203",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":1,
-      "phone":"911868609",
-      "number":85203,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.388+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85204",
-      "columnId":"78",
-      "fullName":"Jose Fonseca",
-      "value":1,
-      "phone":"911868609",
-      "number":85204,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.388+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85205",
-      "columnId":"78",
-      "fullName":"luis vieira",
-      "value":1,
-      "phone":"911868609",
-      "number":85205,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.388+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85206",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":1,
-      "phone":"911868609",
-      "number":85206,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.388+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85207",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":1,
-      "phone":"911868609",
-      "number":85207,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.388+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85208",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":1,
-      "phone":"911868609",
-      "number":85208,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.388+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85213",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":100000.0000,
-      "phone":"911868609",
-      "number":85213,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Online",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.388+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":12.00,
-         "ltv":67,
-         "scr":"B+"
-      },
-      "assignee":{
-         "id":"0",
-         "name":null
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85214",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":100000.0000,
-      "phone":"911868609",
-      "number":85214,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Online",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.388+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":12.00,
-         "ltv":67,
-         "scr":"B+"
-      },
-      "assignee":{
-         "id":"0",
-         "name":null
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85215",
-      "columnId":"78",
-      "fullName":"Luis Vieira",
-      "value":100000.0000,
-      "phone":"911868609",
-      "number":85215,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Online",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.389+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":12.00,
-         "ltv":67,
-         "scr":"B+"
-      },
-      "assignee":{
-         "id":"0",
-         "name":null
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85223",
-      "columnId":"78",
-      "fullName":"Maluco-Beleza",
-      "value":1,
-      "phone":"911868609",
-      "number":85223,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Online",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.389+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"0",
-         "name":null
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85224",
-      "columnId":"78",
-      "fullName":"Maluco-Beleza",
-      "value":1,
-      "phone":"911868609",
-      "number":85224,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Online",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.389+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"0",
-         "name":null
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"85225",
-      "columnId":"78",
-      "fullName":"Fonseca",
-      "value":150000.0000,
-      "phone":"911868609",
-      "number":85225,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Online",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.389+00:00",
-         "description":"Call"
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":0,
-         "scr":"-"
-      },
-      "assignee":{
-         "id":"0",
-         "name":null
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"7404",
-      "columnId":"83",
-      "fullName":"Luis Vieira",
-      "value":150000.0000,
-      "phone":"911868609",
-      "number":7404,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":3,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.389+00:00",
-         "description":null
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":75,
-         "scr":"D+"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"7412",
-      "columnId":"82",
-      "fullName":"Luis Vieira",
-      "value":150000.0000,
-      "phone":"911868609",
-      "number":7412,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":3,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.389+00:00",
-         "description":null
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":75,
-         "scr":"A"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"7405",
-      "columnId":"82",
-      "fullName":"Primeiro Part",
-      "value":100000.0000,
-      "phone":"916250777",
-      "number":7405,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":3,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.389+00:00",
-         "description":null
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":50,
-         "scr":"A+"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"7413",
-      "columnId":"82",
-      "fullName":"LUIS MIGUEL DA SILVA VIEIRA",
-      "value":150000.0000,
-      "phone":"911868609",
-      "number":7413,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":0,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.389+00:00",
-         "description":null
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":75,
-         "scr":"A"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"7414",
-      "columnId":"82",
-      "fullName":"LUIS MIGUEL DA SILVA VIEIRA",
-      "value":250000.0000,
-      "phone":"911868609",
-      "number":7414,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":2,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.389+00:00",
-         "description":null
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":84,
-         "scr":"B-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   },
-   {
-      "id":"7419",
-      "columnId":"82",
-      "fullName":"Teste Api",
-      "value":370000.0000,
-      "phone":"911868609",
-      "number":7419,
-      "products":[
-         "Hipotecário"
-      ],
-      "icon":"fa-regular fa-house",
-      "proposals":4,
-      "bank":"-",
-      "origin":"Backoffice",
-      "schedule":{
-         "date":"2025-11-14T14:59:29.389+00:00",
-         "description":null
-      },
-      "indicators":{
-         "dsti":0,
-         "ltv":100,
-         "scr":"F-"
-      },
-      "assignee":{
-         "id":"4",
-         "name":"Luis Vieira "
-      },
-      "attachments":[
-         "Imposto de Rendimento das Pessoas Singulares",
-         "Liquidação IRS",
-         "Documento de Identificação",
-         "Mapa de Responsabilidades de Crédito",
-         "Recibos",
-         "Extrato banco"
-      ],
-      "tags":[
-         {
-            "id":"ID",
-            "name":"Dummy tag",
-            "color":"#efefef"
-         }
-      ]
-   }
+  {
+    "id": "1",
+    "columnId": "novo",
+    "fullName": "Rui Pereira",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 100,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 3,
+    "bank": "novo-banco",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-28T10:00:00.000Z",
+      "description": "Reunião ontem de manhã"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    },
+    "attachments": [
+      "contrato_habitacao.pdf",
+      "declaracao_rendimentos.pdf",
+      "comprovativos_salario.pdf"
+    ]
+  },
+  {
+    "id": "2",
+    "columnId": "novo",
+    "fullName": "Helena Cruz",
+    "value": 10000,
+    "phone": "968142390",
+    "number": 101,
+    "products": ["Aquisição"],
+    "icon": "fa-regular fa-house",
+    "proposals": 1,
+    "bank": "activo-bank",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-29T14:00:00.000Z",
+      "description": "Chamada hoje à tarde"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "setup",
+        "name": "Setup",
+        "color": "#54a0ff"
+      }
+    ],
+    "indicators": {
+      "dsti": 48,
+      "ltv": 1,
+      "scr": "B"
+    },
+    "assignee": {
+      "id": "3",
+      "name": "Pedro Costa"
+    },
+    "attachments": ["bi_cliente.pdf", "comprovativo_morada.pdf"]
+  },
+  {
+    "id": "3",
+    "columnId": "novo",
+    "fullName": "Client abanca",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 102,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 0,
+    "bank": "abanca",
+    "origin": "web",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    },
+    "attachments": ["certidao_nascimento.pdf", "declaracao_irs.pdf", "avaliacao_imovel.pdf"]
+  },
+  {
+    "id": "4",
+    "columnId": "novo",
+    "fullName": "Client activo bank ?",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 103,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 4,
+    "bank": "activo-bank",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-30T09:00:00.000Z",
+      "description": "Reunião amanhã de manhã"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "5",
+    "columnId": "novo",
+    "fullName": "Client banca pueyo",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 104,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 2,
+    "bank": "banca-pueyo",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-10-01T11:00:00.000Z",
+      "description": "Reunião na próxima semana"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "6",
+    "columnId": "novo",
+    "fullName": "Client bankia",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 105,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": null,
+    "bank": "bankia",
+    "origin": "web",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "7",
+    "columnId": "novo",
+    "fullName": "Client bankinter",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 106,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 0,
+    "bank": "bankinter",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-28T16:00:00.000Z",
+      "description": "Chamada ontem à tarde"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 17,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "8",
+    "columnId": "novo",
+    "fullName": "Client bbva",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 107,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 1,
+    "bank": "bbva",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-29T08:00:00.000Z",
+      "description": "Reunião hoje de manhã"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "9",
+    "columnId": "novo",
+    "fullName": "Client bctt",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 108,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "bctt",
+    "origin": "web",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 77,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "10",
+    "columnId": "novo",
+    "fullName": "Client best",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 109,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "best",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-27T12:00:00.000Z",
+      "description": "Reunião anteontem"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "11",
+    "columnId": "novo",
+    "fullName": "Client bicredit",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 110,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "proposals": 1,
+    "bank": "bicredit",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-30T15:00:00.000Z",
+      "description": "Chamada amanhã à tarde"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "12",
+    "columnId": "novo",
+    "fullName": "Client bpi",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 111,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "bpi",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-10-02T10:00:00.000Z",
+      "description": "Reunião em dois dias"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 7,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "13",
+    "columnId": "novo",
+    "fullName": "Client bridge",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 112,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "bridge",
+    "origin": "web",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "14",
+    "columnId": "novo",
+    "fullName": "Client caixa",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 113,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "caixa",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-29T16:00:00.000Z",
+      "description": "Chamada hoje à noite"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "15",
+    "columnId": "novo",
+    "fullName": "Client cerberus",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 114,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "cerberus",
+    "origin": "web",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 33,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "16",
+    "columnId": "novo",
+    "fullName": "Client cetelem",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 115,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "cetelem",
+    "origin": "web",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "17",
+    "columnId": "novo",
+    "fullName": "Client cgd",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 116,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "cgd",
+    "origin": "app",
+    "schedule": {
+      "date": "2025-09-28T13:00:00.000Z",
+      "description": "Reunião ontem ao almoço"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "18",
+    "columnId": "novo",
+    "fullName": "Client cofidis",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 117,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "cofidis",
+    "origin": "email",
+    "schedule": {
+      "date": "2025-09-29T11:00:00.000Z",
+      "description": "Chamada hoje de manhã"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "19",
+    "columnId": "novo",
+    "fullName": "Client credibom",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 118,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "credibom",
+    "origin": "phone",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 15,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "20",
+    "columnId": "novo",
+    "fullName": "Client credito agricula",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 119,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "credito-agricula",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-30T10:00:00.000Z",
+      "description": "Reunião amanhã de manhã"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "21",
+    "columnId": "novo",
+    "fullName": "Client deutsche",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 120,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "deutsche",
+    "origin": "app",
+    "schedule": {
+      "date": "2025-09-26T14:00:00.000Z",
+      "description": "Chamada há dois dias"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 100,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "22",
+    "columnId": "novo",
+    "fullName": "Client eurobic",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 121,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "eurobic",
+    "origin": "email",
+    "schedule": {
+      "date": "2025-10-03T09:00:00.000Z",
+      "description": "Reunião em três dias"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "23",
+    "columnId": "novo",
+    "fullName": "Client evo",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 122,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "evo",
+    "origin": "phone",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "24",
+    "columnId": "novo",
+    "fullName": "Client globalcaja",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 123,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "globalcaja",
+    "origin": "web",
+    "schedule": {
+      "date": "2025-09-29T13:00:00.000Z",
+      "description": "Reunião hoje à tarde"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 21,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "25",
+    "columnId": "novo",
+    "fullName": "Client ibercaja",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 124,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "ibercaja",
+    "origin": "app",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "26",
+    "columnId": "novo",
+    "fullName": "Client ing",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 125,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "ing",
+    "origin": "email",
+    "schedule": {
+      "date": "2025-09-28T09:00:00.000Z",
+      "description": "Chamada ontem de manhã"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 1,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "27",
+    "columnId": "novo",
+    "fullName": "Client kutxa",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 126,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "kutxa",
+    "origin": "phone",
+    "schedule": {
+      "date": "2025-09-30T14:00:00.000Z",
+      "description": "Reunião amanhã à tarde"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "28",
+    "columnId": "novo",
+    "fullName": "Client laboral kutxa",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 127,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "laboral-kutxa",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "29",
+    "columnId": "novo",
+    "fullName": "Client liberbank",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 128,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "liberbank",
+    "schedule": {
+      "date": "2025-09-29T10:00:00.000Z",
+      "description": "Chamada hoje de manhã"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 100,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "30",
+    "columnId": "novo",
+    "fullName": "Client millennium",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 129,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "millennium",
+    "schedule": {
+      "date": "2025-10-04T11:00:00.000Z",
+      "description": "Reunião na próxima semana"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "31",
+    "columnId": "novo",
+    "fullName": "Client mirabelle",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 130,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "mirabelle",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "32",
+    "columnId": "novo",
+    "fullName": "Client montepio",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 131,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "montepio",
+    "schedule": {
+      "date": "2025-09-25T15:00:00.000Z",
+      "description": "Chamada há três dias"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "33",
+    "columnId": "novo",
+    "fullName": "Client novo banco",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 132,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "novo-banco",
+    "schedule": {
+      "date": "2025-09-29T12:00:00.000Z",
+      "description": "Reunião hoje ao almoço"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "34",
+    "columnId": "novo",
+    "fullName": "Client novobanco acores",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 133,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "novobanco-acores",
+    "schedule": {
+      "date": "2025-09-30T16:00:00.000Z",
+      "description": "Chamada amanhã à noite"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "35",
+    "columnId": "novo",
+    "fullName": "Client oney",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 134,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "oney",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "36",
+    "columnId": "novo",
+    "fullName": "Client open",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 135,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "open",
+    "schedule": {
+      "date": "2025-09-28T11:00:00.000Z",
+      "description": "Reunião ontem de manhã"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "37",
+    "columnId": "novo",
+    "fullName": "Client sabadell",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 136,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "sabadell",
+    "schedule": {
+      "date": "2025-10-05T10:00:00.000Z",
+      "description": "Chamada em uma semana"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "38",
+    "columnId": "novo",
+    "fullName": "Client santander",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 137,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "santander",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "39",
+    "columnId": "novo",
+    "fullName": "Client targo",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 138,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "targo",
+    "schedule": {
+      "date": "2025-09-29T15:00:00.000Z",
+      "description": "Reunião hoje à tarde"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "40",
+    "columnId": "novo",
+    "fullName": "Client uci",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 139,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "uci",
+    "schedule": {
+      "date": "2025-09-30T12:00:00.000Z",
+      "description": "Chamada amanhã ao almoço"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "41",
+    "columnId": "novo",
+    "fullName": "Client unicaja",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 140,
+    "products": ["Renegociação"],
+    "icon": "fa-regular fa-house",
+    "bank": "unicaja",
+    "schedule": null,
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "42",
+    "columnId": "novo",
+    "fullName": "Client best icon null",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 141,
+    "products": ["Renegociação"],
+    "icon": null,
+    "bank": "best",
+    "schedule": {
+      "date": "2025-09-24T13:00:00.000Z",
+      "description": "Reunião há quatro dias"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "43",
+    "columnId": "novo",
+    "fullName": "Client best icon empty",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 142,
+    "products": ["Renegociação"],
+    "icon": "",
+    "bank": "best",
+    "schedule": {
+      "date": "2025-09-29T17:00:00.000Z",
+      "description": "Chamada hoje à noite"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  },
+  {
+    "id": "44",
+    "columnId": "novo",
+    "fullName": "Client best no icon field",
+    "value": 85000,
+    "phone": "968146797",
+    "number": 143,
+    "products": ["Renegociação"],
+    "bank": "best",
+    "schedule": {
+      "date": "2025-10-06T14:00:00.000Z",
+      "description": "Reunião na próxima semana"
+    },
+    "tags": [
+      {
+        "id": "urgent",
+        "name": "Urgent",
+        "color": "#ff4757"
+      },
+      {
+        "id": "testing",
+        "name": "Testing",
+        "color": "#ff9f43"
+      },
+      {
+        "id": "backend",
+        "name": "Backend",
+        "color": "#3742fa"
+      }
+    ],
+    "indicators": {
+      "dsti": 27,
+      "ltv": 47,
+      "scr": "A"
+    },
+    "assignee": {
+      "id": "1",
+      "name": "João Silva"
+    }
+  }
 ]
